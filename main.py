@@ -1,13 +1,8 @@
 def main():
     ##################################################
-    # Comlete your code here
+    # Complete your code here
     ##################################################
-    number = int(input('Enter your input: '))
-
-    if number % 2 != 0:
-        result = 1
-    else:
-        result = 0
+    
 
     ########################################
     # Do not delete the return statement
